@@ -1,0 +1,13 @@
+*.py
+*.exe
+*.pdb
+*.rdbg
+*-ubyte
+gz/
+scratch*
+.vscode
+old/
+lib/
+copy/
+*.zig
+io_uring
